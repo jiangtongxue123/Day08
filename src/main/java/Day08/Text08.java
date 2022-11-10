@@ -7,5 +7,6 @@ public class Text08 {
         }
         System.out.println("jiang");
         System.out.println("jiang1");
+        System.out.println("pull");
     }
 }
